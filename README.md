@@ -1,5 +1,7 @@
 ### Hello there 👋
-#### General DetkOFF
+- 🔭 I study at AGH University of Science and Technology in Krakow
+- 🌱 I’m currently creating Anti Tower Defence Game in Unity
+- Minsk -> Krakow -> ?🤔
 
 
 <!--
