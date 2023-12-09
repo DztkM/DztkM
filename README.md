@@ -5,7 +5,7 @@
 
 ✨ https://detkoff.github.io/ ✨
 
-###narzędzia informatyczne:
+### narzędzia informatyczne:
 fork: https://github.com/DetkOFF/DemoFusion
 source: https://paperswithcode.com/paper/demofusion-democratising-high-resolution
 <!--
