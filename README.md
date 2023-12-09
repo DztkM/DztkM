@@ -6,8 +6,8 @@
 ✨ https://detkoff.github.io/ ✨
 
 ### narzędzia informatyczne:
-fork: https://github.com/DetkOFF/DemoFusion
-source: https://paperswithcode.com/paper/demofusion-democratising-high-resolution
+* fork: https://github.com/DetkOFF/DemoFusion
+* source: https://paperswithcode.com/paper/demofusion-democratising-high-resolution
 <!--
 **DetkOFF/DetkOFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
