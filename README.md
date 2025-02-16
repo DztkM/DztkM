@@ -1,9 +1,5 @@
 ### Hello there 👋
-- 🔭 I study at AGH University of Science and Technology in Krakow
-- 🌱 I’m currently creating Anti Tower Defence Game in Unity
-- Minsk -> Krakow -> ?🤔
-
-✨ https://detkoff.github.io/ ✨
+- 🔭 I study at AGH University in Krakow
 
 <!--
 **DetkOFF/DetkOFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
