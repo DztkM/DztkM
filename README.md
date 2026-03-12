@@ -4,23 +4,15 @@
 
 Working with Python, ML, data analysis, and backend technologies while constantly learning new ones.
 
-
 ---
 
 ## 🐍 Python Stack
 
-**Machine Learning & Data Analysis**:
-- NumPy, Pandas, Matplotlib
-- Scikit-learn
-- TensorFlow, PyTorch
-- OpenCV
-- Stanza, Spacy (NLP)
+**Machine Learning & Data Analysis**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch, OpenCV, Stanza, Spacy (NLP)
   
-**Backend**:
-- FastAPI, SQLAlchemy, Pydantic
+**Backend**: FastAPI, SQLAlchemy, Pydantic
   
-**Tooling**:
-- uv, pip, pytest
+**Tooling**: uv, pip, pytest
 
 ---
 
@@ -31,16 +23,7 @@ Experience with relational and NoSQL databases (**PostgreSQL**, **SQLite**, **Mo
 ---
 
 ## 💻 Other
-
-**Tools**: Docker, Git, ANTLR
-
-**Java**: Spring, Maven
-
-**Web**: TS, JS, Express.js
-
-**Cross-platform Development**: Flutter (Dart)
-
-**Game engines**: Unity (C#)
+Spring, Maven, TS, JS, Express.js, React, Flutter (Dart), Docker, Git, Unity (C#), ANTLR
 
 ---
 
