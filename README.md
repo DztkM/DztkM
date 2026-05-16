@@ -2,7 +2,7 @@
 
 3rd-Year CS & AI student
 
-Working with Python, ML, data analysis, and backend technologies while constantly learning new ones.
+Working with Python, DL/ML, data analysis, and backend technologies while constantly learning new ones.
 
 ---
 
