@@ -1,7 +1,5 @@
 ## Hi 👋
 
-**Backend Developer**, **AI Developer**
-
 Working with Python, TS, MAS, DL/ML.
 
 <!--
